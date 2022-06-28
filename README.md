@@ -1,18 +1,15 @@
 # 👋 Aloha! 👋 
 # I'm Alexander or just Ash for friends
 
-## I'm a Traveller, Expat and Gave Dev enthusiast 
+## I'm a Traveller, Expat and Gave Dev enthusiast  
 
-- ⚡ - I'm Fresher and curently focusing on learning everything about C# and Unity to make a boost in the things I like
+- ⚡ - As a fresher I'm curently focusing on learning everything about C# and Unity to make a boost in the things I like
 - 👯 - Looking for opportunities to collaborate with other developers and get more experience
 
 ### Connect with me:
 
-[![website](<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/alexander-s-989b90183/)
-
-### My Git-Hub page:
-
-[![unnamed (1)](https://user-images.githubusercontent.com/57666313/158775832-95e5d816-ce09-47dd-afb5-4b2394e9e169.png)](https://github.com/alexander-ash)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/alexander-s-989b90183#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/alexander-s-989b90183#gh-dark-mode-only)
 
 ### Languages and Tools:
 
