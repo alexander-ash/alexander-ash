@@ -1,10 +1,11 @@
 # 👋 Aloha! 👋 
-# I'm Alexander or just Ash for friends
+# I'm Alexander or just Ash for friends 
 
-## I'm a Traveller, Expat and Gave Dev enthusiast  
 
-- ⚡ - As a fresher I'm curently focusing on learning everything about C# and Unity to make a boost in the things I like
-- 👯 - Looking for opportunities to collaborate with other developers and get more experience
+## I'm a Traveller, Expat and Gave Dev enthusiast 🐱‍🚀  
+
+- 🚀 - As a fresher I'm curently focusing on learning everything about C# and Unity to make a boost in the things I like
+- 🐱‍🏍 - Looking for opportunities to collaborate with other developers and get more experience
 
 ### Connect with me:
 
