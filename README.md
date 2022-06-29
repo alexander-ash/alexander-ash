@@ -16,7 +16,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
 [<img align="left" alt="CSharp" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" style="padding-right:10px;" />](https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg)
-[<img align="left" alt="Unity" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg" style="padding-right:10px;" />](https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg)
+[<img align="left" alt="Unity" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" style="padding-right:10px;" />](https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg)
 [<img align="left" alt="Photoshop" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />](https://github.com/devicons/devicon/blob/v2.15.1/icons/photoshop/photoshop-plain.svg)
 [<img align="left" alt="Azure" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg" style="padding-right:10px;" />](https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg)
 [<img align="left" alt="Matlab" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg" style="padding-right:10px;" />](https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg)
